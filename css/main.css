@@ -1,5 +1,7 @@
 html {
   font-family: 'Ubuntu Condensed', sans-serif;
+  background: url(../images/starfield.png);
+  color: #fff;
 }
 
 .banner{
@@ -8,6 +10,11 @@ html {
   left: 35%;
 }
 
-.btn {
+img{
+  height: 30px;
+}
 
+.img-flex {
+  display: inline-block;
+  width: 50px;
 }
